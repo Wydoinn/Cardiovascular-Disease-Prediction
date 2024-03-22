@@ -19,7 +19,7 @@ Upon comparing other models, the Histogram Gradient Bossting Classifier had supe
 - Decision Tree Classifier
 - Histgram Gradient Boosting Classifier
 
-### Metrics
+### Metrics (HistGradient Boosting Model)
 - Accuracy: 99.00%
 - Precision: 99.34%
 - Recall: 98.77%
